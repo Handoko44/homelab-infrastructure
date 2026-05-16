@@ -55,6 +55,3 @@ graph TD
     %% Integration Note
     Note[Integrasi Jalur Data:<br/>Backup & Management Site-to-Site via WireGuard]
     Note -.-> WG_Tunnel
-
-# Project Overview
-This project is the implementation of Proxmox VE between a home server and an office lab server using WireGuard for network integration and remote management.
