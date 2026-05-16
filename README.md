@@ -1,7 +1,7 @@
 
 # 🌐 Homelab Infrastructure
 ![Uptime](https://img.shields.io/badge/Status-Online-success?style=for-the-badge&logo=proxmox)
-![Location](https://img.shields.io/badge/Location-Kalimantan Tengah-blue?style=for-the-badge)
+![Location](https://img.shields.io/badge/Location-KalimantanTengah-blue?style=for-the-badge)
 ![VPN](https://img.shields.io/badge/VPN-WireGuard-green?style=for-the-badge&logo=wireguard)
 ### 🌐 Network Labs Infrastructure
 ```mermaid
