@@ -1,4 +1,7 @@
-graph TD
+### 🌐 Network Infrastructure
+
+```mermaid
+(graph TD
     %% Styling
     classDef internet fill:#f9f,stroke:#333,stroke-width:2px;
     classDef home_router fill:#2e64fe,color:#fff,stroke:#333,stroke-width:2px;
@@ -48,4 +51,4 @@ graph TD
 
     %% Integration Note
     Note[Integrasi Jalur Data:<br/>Backup & Management Site-to-Site via WireGuard]
-    Note -.-> WG_Tunnel
+    Note -.-> WG_Tunnel)
