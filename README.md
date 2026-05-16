@@ -55,3 +55,16 @@ graph TD
     %% Integration Note
     Note[Integrasi Jalur Data:<br/>Backup & Management Site-to-Site via WireGuard]
     Note -.-> WG_Tunnel
+
+---
+
+## 📖 Project Overview
+This project is the implementation of Proxmox VE between a home server and an office lab server using WireGuard for network integration and remote management
+
+## 🛠️ Hardware Stack
+| Perangkat | Peran | Spesifikasi Utama | OS |
+| :--- | :--- | :--- | :--- |
+| **HP 8470W Server** | Main Hypervisor | 10.30.0.253 (Local) | Proxmox VE 8.x |
+| **MikroTik RB750** | Home Gateway | 192.168.1.4 (WAN) | RouterOS v7 |
+| **RB1100AHx4** | Campus Hub | Office/Work Lab | RouterOS v7 |
+| **Access Point** | Wireless Dist. | 10.40.0.1/24 | AP Mode |
