@@ -55,6 +55,7 @@ graph TD
     %% Integration Note
     Note[Integrasi Jalur Data:<br/>Backup & Management Site-to-Site via WireGuard]
     Note -.-> WG_Tunnel
+```
 
 ---
 
