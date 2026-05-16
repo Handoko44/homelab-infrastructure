@@ -1,4 +1,4 @@
-### 🌐 Network Infrastructure
+### 🌐 Network Labs Infrastructure
 
 ```mermaid
 graph TD
