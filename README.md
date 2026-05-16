@@ -63,7 +63,7 @@ graph TD
 This project is the implementation of Proxmox VE between a home server and an office lab server using WireGuard for network integration and remote management
 
 ## 🛠️ Hardware Stack
-| Perangkat | Peran | Spesifikasi Utama | OS |
+| Device | Role | Network | OS |
 | :--- | :--- | :--- | :--- |
 | **HP 8470W Server** | Main Hypervisor | 10.30.0.1/24 | Proxmox VE 9.1 |
 | **MikroTik RB750** | Home Gateway | 192.168.1.1 | RouterOS v7 |
